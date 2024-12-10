@@ -1,0 +1,2 @@
+1. ill use the stack to automatically reverse the text by putting it in and taking the text back out
+2. ill have to clean out the string first and read from a file and write to a file
